@@ -37,5 +37,3 @@ const App = () => {
 }
 
 export default App
-
-// 别忘了在index.css或app.css中添加如下样式
